@@ -1,0 +1,12 @@
+{
+  "name": "council",
+  "version": "1.0.0",
+  "description": "Council — assemble a personal board of directors from people you admire and bring your decisions to them.",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "npx serve .",
+    "deploy": "vercel --prod"
+  },
+  "license": "MIT"
+}
